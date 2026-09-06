@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+pymongo
+APScheduler
+Flask
+gunicorn
